@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value">
+    <sys_highlighted_value action="DELETE">
+        <field>priority</field>
+        <sys_class_name>sys_highlighted_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 19:30:28</sys_created_on>
+        <sys_id>87e0a7c91b6d00107d5f43f6cc4bcb18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ncapp1" source="x_snc_ncapp1">fe00a3c51b6d00107d5f43f6cc4bcb14</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ncapp1">fe00a3c51b6d00107d5f43f6cc4bcb14</sys_scope>
+        <sys_update_name>sys_highlighted_value_87e0a7c91b6d00107d5f43f6cc4bcb18</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 19:30:28</sys_updated_on>
+        <table>incident</table>
+        <workspace/>
+    </sys_highlighted_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ncapp1">fe00a3c51b6d00107d5f43f6cc4bcb14</application>
+        <file_path/>
+        <instance_id>867caa9a2b8ff04070acbb4f59da1541</instance_id>
+        <instance_name>demonightlyus</instance_name>
+        <name>sys_highlighted_value_87e0a7c91b6d00107d5f43f6cc4bcb18</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value"><sys_highlighted_value action="INSERT_OR_UPDATE"><field>priority</field><sys_class_name>sys_highlighted_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 19:30:28</sys_created_on><sys_id>87e0a7c91b6d00107d5f43f6cc4bcb18</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Ncapp1" source="x_snc_ncapp1">fe00a3c51b6d00107d5f43f6cc4bcb14</sys_package><sys_policy/><sys_scope display_value="Ncapp1">fe00a3c51b6d00107d5f43f6cc4bcb14</sys_scope><sys_update_name>sys_highlighted_value_87e0a7c91b6d00107d5f43f6cc4bcb18</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 19:30:28</sys_updated_on><table>incident</table><workspace/></sys_highlighted_value></record_update>]]></payload>
+        <payload_hash>-1824947259</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b860e7491b6d00107d5f43f6cc4bcb9d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 19:30:28</sys_created_on>
+        <sys_id>2831230d1b6d00107d5f43f6cc4bcb67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ed26471e80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 19:30:28</sys_updated_on>
+        <type>Highlighted Value</type>
+        <update_guid>6031230d946d00105edff58540a8c767</update_guid>
+        <update_guid_history>6031230d946d00105edff58540a8c767:-1824947259</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 19:36:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_highlighted_value">sys_highlighted_value</sys_db_object>
+        <sys_id>0380a5b5f27a467c8365d56378145910</sys_id>
+        <sys_metadata>87e0a7c91b6d00107d5f43f6cc4bcb18</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ncapp1" source="x_snc_ncapp1">fe00a3c51b6d00107d5f43f6cc4bcb14</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ncapp1">fe00a3c51b6d00107d5f43f6cc4bcb14</sys_scope>
+        <sys_scope_delete display_value="">1aacd381a88e49f8b5dd824917019310</sys_scope_delete>
+        <sys_update_name>sys_highlighted_value_87e0a7c91b6d00107d5f43f6cc4bcb18</sys_update_name>
+        <sys_update_version display_value="sys_highlighted_value_87e0a7c91b6d00107d5f43f6cc4bcb18">2831230d1b6d00107d5f43f6cc4bcb67</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 19:36:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

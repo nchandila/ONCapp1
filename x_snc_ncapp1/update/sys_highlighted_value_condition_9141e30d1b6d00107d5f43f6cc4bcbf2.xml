@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value_condition">
     <sys_highlighted_value_condition action="INSERT_OR_UPDATE">
-        <conditions table="incident">priority=1^EQ<item display_value="1 - Critical" endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="1"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </conditions>
-        <highlighted_value display_value="">87e0a7c91b6d00107d5f43f6cc4bcb18</highlighted_value>
+        <conditions>priority=1^EQ</conditions>
+        <highlighted_value/>
         <order>0</order>
         <show_icon>false</show_icon>
         <status>critical</status>
